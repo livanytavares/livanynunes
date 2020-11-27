@@ -1,5 +1,5 @@
 ## Hello, I am Liv. <img src="https://i.imgur.com/2UVkjhR.gif" width="150">
-Computer engineering student | Software developer intern at  <a href="https://www.linkedin.com/company/clubpetro-fidelidade/" target="_blank"><img src="https://clubpetro.com/wp-content/uploads/2019/08/CLUBPETRO-lettering-cinza.png" width="60"></a>
+Computer engineering student | Software developer intern at  <a href="https://www.linkedin.com/company/it-eam" target="_blank">iT.eam</a>
 ###### Cooking :cake:  - Dóris :dog: :feet: - Lifelong learner :computer:
 ---
 
