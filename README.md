@@ -15,10 +15,10 @@ const liv = {
     college: "Universidade Federal de Ouro Preto"
   },
   code: ['Javascript', 'Typescript', 'Java', 'HTML', 'CSS', 'PHP', 'Python', 'C', 'SQL'],
-  tools: ['React', 'Node', 'Styled-Components', 'Docker', 'Boostrap', 'Laravel'],
+  tools: ['React', 'Node', 'Boostrap', 'Laravel'],
   architecture: ['microservices'],
-  communities: ['Womakers', 'CloudGirls'],
-  interests:['test-driving-development', 'devOps', 'AI'],
+  communities: ['Womakers'],
+  interests:['Software engineer', 'Development best practices', 'Interpersonal growth'],
 }
 ```
 
