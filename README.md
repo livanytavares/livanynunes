@@ -1,5 +1,5 @@
 ## Hello, I am Liv. <img src="https://i.imgur.com/2UVkjhR.gif" width="150">
-Computer engineering student | Software developer intern at  <a href="https://www.linkedin.com/company/it-eam" target="_blank">iT.eam</a>
+Computer engineering student | IoT EAM Consultant at  <a href="https://www.linkedin.com/company/it-eam" target="_blank">iT.eam</a>
 ###### Cooking :cake:  - Dóris e Olívia :dog: :feet: - Lifelong learner :computer:
 ---
 
