@@ -1,5 +1,5 @@
 ## Hello, I am Liv. <img src="https://i.imgur.com/2UVkjhR.gif" width="150">
-Computer engineering student | Full Stack Engineer at  <a href="https://www.linkedin.com/company/bompracredito/mycompany" target="_blank">Bom pra crédito</a>
+Computer engineering student | Software Developer at  <a href="" target="_blank">Thoughtworks</a>
 ###### Cooking :cake:  - Dóris e Olívia :dog: :feet: - Lifelong learner :computer:
 ---
 
