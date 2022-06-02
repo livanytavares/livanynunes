@@ -1,6 +1,6 @@
 ## Hello, I am Liv. <img src="https://i.imgur.com/2UVkjhR.gif" width="150">
 Computer engineering student | Software Developer at  <a href="" target="_blank">Thoughtworks</a>
-###### Cooking :cake:  - Dóris e Olívia :dog: :feet: - Lifelong learner :computer:
+###### Cooking :cake:  - Dóris, Olívia and Margot :dog: :feet: - Lifelong learner :computer:
 ---
 
 
